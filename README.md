@@ -1,1 +1,1 @@
-![Project](Img/project.png)
+![project](img/project.png)
